@@ -1,17 +1,17 @@
 class Solution {
 public:
     string s;
-    bool valid(string& p, string& ans) {
-        for (int i = 0; i < p.length(); i++) {
-            if ((p[i] == 'I' && ans[i] - '0' >= ans[i + 1] - '0') ||
-                (p[i] == 'D' && ans[i] - '0' <= ans[i + 1] - '0')) {
-                return false;
-            }
-        }
-        return true;
-    }
+    // bool valid(string& p, string& ans) {
+    //     for (int i = 0; i < p.length(); i++) {
+    //         if ((p[i] == 'I' && ans[i] - '0' >= ans[i + 1] - '0') ||
+    //             (p[i] == 'D' && ans[i] - '0' <= ans[i + 1] - '0')) {
+    //             return false;
+    //         }
+    //     }
+    //     return true;
+    // }
     void g(string p, vector<bool>& v, string ans) {
-        if (ans.length() == p.length() + 1 && valid(p, ans)) {
+        if (ans.length() == p.length() + 1 ) {
             s = min(s, ans);
             return;
         }
