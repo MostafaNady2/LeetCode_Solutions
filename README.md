@@ -53,6 +53,7 @@ This repository contains my solutions to LeetCode problems.
 | [2107-find-unique-binary-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2665-minimum-time-to-repair-cars](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3483-alternating-groups-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
@@ -83,6 +84,10 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3483-alternating-groups-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2665-minimum-time-to-repair-cars](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 <!---LeetCode Topics End-->
 
 Happy coding! 🚀
