@@ -5,15 +5,10 @@ public:
         bool ans;
         int i=1,n=nums.size(),cnt=0;
         while(i < n){
-            cnt=1;
-            while(i < n && nums[i]==nums[i-1]){
-                cnt++;
-                i++;
-            }
-            if(cnt&1){
+            if(nums[i]!=nums[i-1]){
                 return false;
             }
-            i++;
+            i+=2;
         }
         return true;
     }
