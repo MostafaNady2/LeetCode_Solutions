@@ -1,19 +1,22 @@
 class Solution {
 public:
-    void dfs(int node, vector<bool>& vis, vector<int>& comp,
+    void dfs(int node, vector<bool>& vis, int& count,
              vector<vector<int>>& arr) {
         vis[node] = true;
-        comp.push_back(node);
+        count++;
         for (auto i : arr[node]) {
             if (!vis[i]) {
-                dfs(i, vis, comp, arr);
+                dfs(i, vis, count, arr);
             }
         }
     }
-    bool isComplete(int node, vector<bool>& vis, vector<int>& comp,
+    bool isComplete(int node, vector<bool>& vis, int& count,
                     vector<vector<int>>& arr) {
-        int n = comp.size();
-        for (int e : comp) {
+        int n = count;
+        if (arr[node].size() != n - 1) {
+            return false;
+        }
+        for (int e : arr[node]) {
             if (arr[e].size() != n - 1) {
                 return false;
             }
@@ -28,11 +31,11 @@ public:
             arr[i[1]].push_back(i[0]);
         }
         int ans = 0;
-        for(int i = 0 ; i < n; i++) {
+        for (int i = 0; i < n; i++) {
             if (!vis[i]) {
-                vector<int> comp;
-                dfs(i, vis, comp, arr);
-                if (isComplete(i, vis, comp, arr)) {
+                int count = 0;
+                dfs(i, vis, count, arr);
+                if (isComplete(i, vis, count, arr)) {
                     ans++;
                 }
             }
