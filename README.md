@@ -98,6 +98,22 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
+## Union Find
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
+## Graph
+|  |
+| ------- |
+| [2793-count-the-number-of-complete-components](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
 
 Happy coding! 🚀
