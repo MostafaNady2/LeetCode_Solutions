@@ -1,6 +1,9 @@
 class Solution {
 public:
     int countDays(int days, vector<vector<int>>& meetings) {
+        ios::sync_with_stdio(false);
+        cin.tie(0);
+        cout.tie(0);
         sort(meetings.begin(), meetings.end(),
              [&](vector<int> a, vector<int> b) { return a[0] < b[0]; });
         int ans = meetings[0][0] - 1;
