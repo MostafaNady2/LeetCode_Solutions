@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems.
 | [3227-find-missing-and-repeated-values](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3430-count-days-without-meetings](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -119,6 +120,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3430-count-days-without-meetings](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 <!---LeetCode Topics End-->
 
 Happy coding! 🚀
