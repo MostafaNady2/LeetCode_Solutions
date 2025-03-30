@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [2107-find-unique-binary-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -33,6 +34,7 @@ This repository contains my solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
@@ -49,6 +51,7 @@ This repository contains my solutions to LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Array
 |  |
@@ -79,6 +82,7 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0768-partition-labels](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
