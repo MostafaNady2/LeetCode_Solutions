@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems.
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
 |  |
@@ -171,6 +172,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2998-count-symmetric-integers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
 
 Happy coding! 🚀
