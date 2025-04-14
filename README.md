@@ -64,6 +64,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -172,6 +173,7 @@ This repository contains my solutions to LeetCode problems.
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
 ## Recursion
