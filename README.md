@@ -75,6 +75,7 @@ This repository contains my solutions to LeetCode problems.
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -100,6 +101,7 @@ This repository contains my solutions to LeetCode problems.
 | [2265-partition-array-according-to-given-pivot](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Simulation
 |  |
@@ -121,6 +123,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2665-minimum-time-to-repair-cars](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -152,6 +155,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3430-count-days-without-meetings](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
