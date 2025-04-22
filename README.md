@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems.
 ## Backtracking
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [1160-letter-tile-possibilities](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -44,6 +45,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0038-count-and-say) |
+| [0257-binary-tree-paths](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [0768-partition-labels](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [1160-letter-tile-possibilities](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -146,6 +148,7 @@ This repository contains my solutions to LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -182,6 +185,7 @@ This repository contains my solutions to LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
 |  |
@@ -189,6 +193,7 @@ This repository contains my solutions to LeetCode problems.
 | [0094-binary-tree-inorder-traversal](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0257-binary-tree-paths) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Combinatorics
 |  |
