@@ -86,6 +86,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0797-rabbits-in-forest](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -136,6 +137,7 @@ This repository contains my solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0768-partition-labels](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -200,6 +202,7 @@ This repository contains my solutions to LeetCode problems.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
