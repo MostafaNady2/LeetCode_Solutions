@@ -124,6 +124,7 @@ This repository contains my solutions to LeetCode problems.
 | [3430-count-days-without-meetings](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3639-zero-array-transformation-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -138,6 +139,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2249-count-the-hidden-sequences](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2249-count-the-hidden-sequences) |
+| [3639-zero-array-transformation-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 ## Two Pointers
 |  |
 | ------- |
