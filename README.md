@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems.
 | [2107-find-unique-binary-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 ## Counting
 |  |
 | ------- |
@@ -118,6 +119,7 @@ This repository contains my solutions to LeetCode problems.
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3321-type-of-triangle) |
