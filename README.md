@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode problems.
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0135-candy) |
 | [0768-partition-labels](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -92,6 +93,7 @@ This repository contains my solutions to LeetCode problems.
 | [0066-plus-one](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
