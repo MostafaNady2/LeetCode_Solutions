@@ -5,20 +5,17 @@ public:
         vector<vector<int>> ans;
         vector<int> temp;
         sort(nums.begin(), nums.end());
-        bool flag = false;
-        for (int i = 0; i < n && !flag; i++) {
+        for (int i = 0; i < n; i += 3) {
             temp.push_back(nums[i]);
-            if (temp.size() % 3 == 0) {
-                if (temp[2] - temp[0] > k) {
-                    flag = true;
-                    return vector<vector<int>>();
-                }
+            temp.push_back(nums[i + 1]);
+            temp.push_back(nums[i + 2]);
+            if (temp[2] - temp[0] > k) {
+                return vector<vector<int>>();
+            } else {
                 ans.push_back(temp);
                 temp.clear();
             }
         }
-        if (flag)
-            return vector<vector<int>>();
         return ans;
     }
 };
