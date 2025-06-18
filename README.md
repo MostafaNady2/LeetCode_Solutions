@@ -93,6 +93,7 @@ This repository contains my solutions to LeetCode problems.
 | [2456-construct-smallest-number-from-di-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Array
 |  |
@@ -133,6 +134,7 @@ This repository contains my solutions to LeetCode problems.
 | [3194-find-words-containing-character](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
@@ -230,6 +232,7 @@ This repository contains my solutions to LeetCode problems.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3321-type-of-triangle](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3321-type-of-triangle) |
 | [3430-count-days-without-meetings](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
