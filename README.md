@@ -90,6 +90,7 @@ This repository contains my solutions to LeetCode problems.
 | [0768-partition-labels](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -119,6 +120,7 @@ This repository contains my solutions to LeetCode problems.
 | [2265-partition-array-according-to-given-pivot](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -229,6 +231,7 @@ This repository contains my solutions to LeetCode problems.
 | [0075-sort-colors](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
