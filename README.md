@@ -64,6 +64,7 @@ This repository contains my solutions to LeetCode problems.
 | [1160-letter-tile-possibilities](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3194-find-words-containing-character) |
@@ -177,6 +178,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
