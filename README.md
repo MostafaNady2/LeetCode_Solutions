@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems.
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1500-count-largest-group) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2107-find-unique-binary-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -80,6 +81,7 @@ This repository contains my solutions to LeetCode problems.
 | [0594-longest-harmonious-subsequence](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -118,6 +120,7 @@ This repository contains my solutions to LeetCode problems.
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1510-find-lucky-integer-in-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
