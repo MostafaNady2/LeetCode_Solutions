@@ -1,7 +1,7 @@
 class FindSumPairs {
 public:
     vector<int> nums1, nums2;
-	map<int, int> m;
+	unordered_map<int, int> m;
     FindSumPairs(vector<int>& nums1, vector<int>& nums2) {
 		this->nums1 = nums1;
 		this->nums2 = nums2;
@@ -20,9 +20,9 @@ public:
 		int cnt=0;
         for(int i = 0; i < nums1.size(); i++){
 			int rem = tot - nums1[i];
-			if(m.find(rem) != m.end()){
+			// if(m.find(rem) != m.end()){
 				cnt+=m[rem];
-			}
+			// }
 		}
 		return cnt;
     }
