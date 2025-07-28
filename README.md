@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems.
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Hash Table
@@ -134,6 +135,7 @@ This repository contains my solutions to LeetCode problems.
 | [2107-find-unique-binary-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2249-count-the-hidden-sequences](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2249-count-the-hidden-sequences) |
@@ -224,6 +226,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -301,6 +304,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [1656-count-good-triplets](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
 ## Recursion
