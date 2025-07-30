@@ -145,6 +145,7 @@ This repository contains my solutions to LeetCode problems.
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -229,6 +230,7 @@ This repository contains my solutions to LeetCode problems.
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
@@ -320,6 +322,10 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
 
 Happy coding! 🚀
