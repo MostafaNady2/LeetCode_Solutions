@@ -121,6 +121,7 @@ This repository contains my solutions to LeetCode problems.
 | [0135-candy](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0135-candy) |
 | [0594-longest-harmonious-subsequence](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1293-three-consecutive-odds) |
@@ -174,6 +175,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0868-push-dominoes](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Prefix Sum
@@ -226,6 +228,7 @@ This repository contains my solutions to LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
