@@ -333,6 +333,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Brainteaser
 |  |
@@ -368,6 +369,11 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0969-number-of-recent-calls](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
 
 Happy coding! 🚀
