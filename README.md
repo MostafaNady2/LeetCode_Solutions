@@ -122,6 +122,7 @@ This repository contains my solutions to LeetCode problems.
 | [0075-sort-colors](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0135-candy) |
 | [0164-maximum-gap](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0164-maximum-gap) |
+| [0498-diagonal-traverse](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -205,6 +206,7 @@ This repository contains my solutions to LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [2048-build-array-from-permutation](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -214,6 +216,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0498-diagonal-traverse](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0498-diagonal-traverse) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
