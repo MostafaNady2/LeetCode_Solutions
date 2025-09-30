@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems.
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2998-count-symmetric-integers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2998-count-symmetric-integers) |
@@ -150,6 +151,7 @@ This repository contains my solutions to LeetCode problems.
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2478-longest-nice-subarray](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -210,6 +212,7 @@ This repository contains my solutions to LeetCode problems.
 | [2048-build-array-from-permutation](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
@@ -320,6 +323,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Enumeration
 |  |
 | ------- |
