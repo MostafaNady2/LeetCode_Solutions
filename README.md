@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems.
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Backtracking
 |  |
@@ -214,6 +215,7 @@ This repository contains my solutions to LeetCode problems.
 | [2265-partition-array-according-to-given-pivot](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [3336-water-bottles-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
