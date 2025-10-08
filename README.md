@@ -154,6 +154,7 @@ This repository contains my solutions to LeetCode problems.
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2478-longest-nice-subarray](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2478-longest-nice-subarray) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -202,6 +203,7 @@ This repository contains my solutions to LeetCode problems.
 | [0868-push-dominoes](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2551-apply-operations-to-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -238,6 +240,7 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2665-minimum-time-to-repair-cars](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2665-minimum-time-to-repair-cars) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
@@ -287,6 +290,7 @@ This repository contains my solutions to LeetCode problems.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2888-minimum-index-of-a-valid-split) |
