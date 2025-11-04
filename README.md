@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems.
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -182,6 +183,7 @@ This repository contains my solutions to LeetCode problems.
 | [3430-count-days-without-meetings](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3430-count-days-without-meetings) |
 | [3483-alternating-groups-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3639-zero-array-transformation-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -246,6 +248,7 @@ This repository contains my solutions to LeetCode problems.
 | [2856-count-complete-subarrays-in-an-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3483-alternating-groups-ii](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3483-alternating-groups-ii) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -318,6 +321,7 @@ This repository contains my solutions to LeetCode problems.
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Tree
 |  |
 | ------- |
