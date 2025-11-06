@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems.
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3863-power-grid-maintenance](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -190,6 +191,7 @@ This repository contains my solutions to LeetCode problems.
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3863-power-grid-maintenance](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -277,21 +279,25 @@ This repository contains my solutions to LeetCode problems.
 | [0386-lexicographical-numbers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0386-lexicographical-numbers) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Graph
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2793-count-the-number-of-complete-components) |
+| [3863-power-grid-maintenance](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
 | ------- |
@@ -322,6 +328,7 @@ This repository contains my solutions to LeetCode problems.
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 ## Tree
 |  |
 | ------- |
@@ -411,6 +418,10 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
 
 Happy coding! 🚀
