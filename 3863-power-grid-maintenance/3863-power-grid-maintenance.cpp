@@ -1,7 +1,6 @@
 class Solution {
 public:
     vector<int> parent = vector<int>(100001);
-
     int getParent(int x) {
         if (parent[x] == x) {
             return x;
@@ -25,9 +24,10 @@ public:
         for (auto i : connections) {
             unionNodes(i[0], i[1]);
         }
-        unordered_map<int, set<int>> groups;
+        unordered_map<int, priority_queue<int, vector<int>, greater<int>>>
+            groups;
         for (int i = 1; i <= c; i++) {
-            groups[getParent(i)].insert(i);
+            groups[getParent(i)].push(i);
         }
         vector<int> ans;
         for (auto q : queries) {
@@ -37,15 +37,18 @@ public:
                 if (active[u]) {
                     ans.push_back(u);
                 } else {
+                    while (!groups[root].empty() &&
+                           !active[groups[root].top()]) {
+                        groups[root].pop();
+                    }
                     if (!groups[root].empty()) {
-                        ans.push_back(*groups[root].begin());
-                    } else {
+                        ans.push_back(groups[root].top());
+                    }else{
                         ans.push_back(-1);
                     }
                 }
             } else {
                 active[u] = 0;
-                groups[root].erase(u);
             }
         }
         return ans;
