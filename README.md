@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems.
 | [1448-maximum-69-number](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
@@ -77,6 +78,7 @@ This repository contains my solutions to LeetCode problems.
 | [0868-push-dominoes](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0868-push-dominoes) |
 | [1160-letter-tile-possibilities](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2107-find-unique-binary-string](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/2107-find-unique-binary-string) |
