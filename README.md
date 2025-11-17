@@ -435,6 +435,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0175-combine-two-tables](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0620-not-boring-movies](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
 
 Happy coding! 🚀
