@@ -430,6 +430,10 @@ This repository contains my solutions to LeetCode problems.
 |  |
 | ------- |
 | [3863-power-grid-maintenance](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/3863-power-grid-maintenance) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
 
 Happy coding! 🚀
