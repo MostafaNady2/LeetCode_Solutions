@@ -9,6 +9,7 @@ This repository contains my solutions to LeetCode problems.
 | ------- |
 | [0066-plus-one](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0066-plus-one) |
 | [0797-rabbits-in-forest](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1500-count-largest-group) |
@@ -47,6 +48,7 @@ This repository contains my solutions to LeetCode problems.
 | [0594-longest-harmonious-subsequence](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/0797-rabbits-in-forest) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1160-letter-tile-possibilities](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/MostafaNady2/LeetCode_Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
